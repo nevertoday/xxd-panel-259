@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 259"
+  short_description: "古典诗稿：上半保留原照，下半收成不完美墨线的古典诗性手稿"
+  default_prompt: "Use $xxd-panel-259 to transform my photograph following the complete canonical source brief."
