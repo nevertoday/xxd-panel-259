@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 259｜Classical Poem Manuscript: removes most of a photo and redraws the subject as a poetic, classical-feeling private manuscript in imperfect hand-drawn ink — naive, expressive monoline with varied weight, repeated searching strokes, broken or unclosed outlines and wrist wobble, one small anchor in vast white space with a few casual symbolic marks such as a broken circle, a plant line, stars or a horizon, on handmade paper with soft ink bleed, dry brush, chalky pigment and subtle grain, in muted time-worn colours of dusty rose, warm ivory, muted green, soft blue, pale gold and old-paper tones, plus one very short line in an irregular, hand-noted editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-259 or asks for naive ink manuscript, poetic minimal or wabi-sabi hand-drawn illustration from a photo.",
+  "short_description": "古典诗稿：把照片主体收成不完美墨线的古典诗稿，留白像私人手稿",
+  "zh-CN": {
+    "name": "古典诗稿",
+    "tagline": "把照片主体画成一页不完美墨线的古典诗稿，像艺术家多年后凭记忆画下的一瞬。",
+    "look": "照片的绝大多数信息都删掉，只留能保住主体精神的几条线索，用不完美的手绘墨线画出：粗细略有变化，局部反复描、来回寻找形体，轮廓可以偏移、断开、不闭合，看得见手腕的不稳。主体很小，可以偏心或悬在大片留白里，旁边只有几处像随手留下的符号，比如不完整的圆、植物线、星点或一条水平线。纸是手工纸，墨迹轻轻晕开，有干笔、粉质颜料和细微颗粒。颜色低饱和、有时间感：灰玫瑰、暖象牙、哑绿、柔蓝、淡金、旧纸色。配一句极短的、带私人手记感的小字。",
+    "traits": ["古典诗稿", "稚拙墨线", "诗意留白", "私人手稿", "不完美线", "旧纸色"],
+    "good": [
+      "带一点古典或象征意味的主体：一尊雕像、一只鹿、一棵橄榄树、一个侧脸",
+      "安静、适合沉思的瞬间：独自坐着的人、月下的屋顶、一只停在枝头的鸟",
+      "想做成诗集插图、书信卡片或私人手稿感海报的照片"
+    ],
+    "poor": [
+      "想保留完整场景或丰富色彩的照片",
+      "需要线条干净、比例准确的用途：产品图、人像、建筑图",
+      "想要光滑矢量线、完美几何或精修商业插画的效果"
+    ]
+  },
+  "en": {
+    "name": "Classical Poem Manuscript",
+    "tagline": "Redraws your subject as a page of imperfect ink in a classical poem manuscript, as if from memory.",
+    "look": "Most of the photo is removed; only a few clues that keep the subject's spirit remain, drawn in imperfect hand-drawn ink: the weight varies slightly, some parts are traced again and again as the hand searches for the form, and outlines may shift, break or stay open, showing the wobble of the wrist. The subject is small, off-centre or floating in vast white space, with only a few casual marks nearby such as a broken circle, a plant line, a scatter of stars or a horizon. The paper is handmade, the ink bleeds softly, with dry-brush strokes, chalky pigment and fine grain. Colours are muted and time-worn: dusty rose, warm ivory, muted green, soft blue, pale gold, old-paper tones. One very short line of small, hand-noted text goes with it.",
+    "traits": ["Classical manuscript", "Naïve ink line", "Poetic white space", "Private notes", "Imperfect line", "Old-paper tones"],
+    "good": [
+      "Subjects with a classical or symbolic feel: a statue, a deer, an olive tree, a face in profile",
+      "Quiet, contemplative moments: a person sitting alone, a rooftop under the moon, a bird on a branch",
+      "Photos you want as a poetry-book illustration, letter card or manuscript-like poster"
+    ],
+    "poor": [
+      "Photos where you want the full scene or rich colour kept",
+      "Uses that need clean lines and accurate proportions: product shots, portraits, architectural drawings",
+      "Requests for smooth vector lines, perfect geometry or polished commercial illustration"
+    ]
+  },
+  "ja": {
+    "name": "古典の詩稿",
+    "tagline": "写真の主役を、不完全な墨線で描いた古典的な詩稿の一ページにします。何年もたってから記憶で描いた一瞬のように。",
+    "look": "写真の情報の大半を消し、主役の精神を保ついくつかの手がかりだけを、不完全な手描きの墨線で描きます。太さはわずかに揺れ、ところどころ何度もなぞって形を探り、輪郭はずれたり、切れたり、閉じなかったりして、手首の不安定さが見えます。主役は小さく、中心からずれたり広い余白に浮かんだりし、そばには欠けた円、植物の線、星、水平線など、何気なく残したような印がいくつかあるだけです。紙は手漉きで、墨はやわらかくにじみ、かすれた筆跡、粉っぽい顔料、細かな粒子があります。色は彩度が低く、時を経たような色：ダスティローズ、温かいアイボリー、くすんだ緑、やわらかな青、淡い金、古紙の色。個人的なメモのような、ごく短い一行を小さく添えます。",
+    "traits": ["古典の詩稿", "素朴な墨線", "詩的な余白", "個人的な手稿", "不完全な線", "古紙の色"],
+    "good": [
+      "古典的、象徴的な雰囲気のある主役：彫像、鹿、オリーブの木、横顔",
+      "静かで物思いにふける瞬間：一人で座る人、月の下の屋根、枝にとまる鳥",
+      "詩集の挿絵、手紙のカード、手稿のようなポスターにしたい写真"
+    ],
+    "poor": [
+      "場面全体や豊かな色を残したい写真",
+      "きれいな線と正確な比率が必要な用途：商品写真、人物写真、建築図面",
+      "なめらかなベクターの線、完璧な幾何学、仕上げた商業イラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "고전 시 원고",
+    "tagline": "사진 속 주인공을 불완전한 먹선으로 그린 고전 시 원고 한 장으로 바꿉니다. 오랜 뒤 기억으로 다시 그린 한순간처럼.",
+    "look": "사진의 정보 대부분을 지우고 주인공의 정신을 지키는 몇 가지 단서만 남겨 불완전한 손그림 먹선으로 그립니다. 굵기가 조금씩 달라지고, 곳곳에서 여러 번 덧그리며 형태를 찾고, 윤곽은 어긋나거나 끊기거나 닫히지 않아 손목의 흔들림이 보입니다. 주인공은 작게, 중심에서 벗어나거나 넓은 여백에 떠 있고, 옆에는 끊긴 원, 식물 선, 별, 수평선처럼 무심히 남긴 듯한 표시가 몇 개뿐입니다. 종이는 수제 종이이고 먹이 부드럽게 번지며, 마른 붓 자국과 가루 같은 안료, 미세한 입자가 있습니다. 색은 채도가 낮고 시간이 묻어 있습니다: 더스티 로즈, 따뜻한 아이보리, 탁한 초록, 부드러운 파랑, 옅은 금색, 오래된 종이색. 개인 메모 같은 아주 짧은 한 줄을 작게 곁들입니다.",
+    "traits": ["고전 시 원고", "천진한 먹선", "시적인 여백", "개인 원고", "불완전한 선", "오래된 종이색"],
+    "good": [
+      "고전적이거나 상징적인 느낌의 주인공: 조각상, 사슴, 올리브 나무, 옆얼굴",
+      "조용히 생각에 잠기게 하는 순간: 혼자 앉은 사람, 달 아래 지붕, 가지에 앉은 새",
+      "시집 삽화, 편지 카드, 원고 같은 포스터로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "장면 전체나 풍부한 색을 살리고 싶은 사진",
+      "깔끔한 선과 정확한 비례가 필요한 용도: 제품 사진, 인물 사진, 건축 도면",
+      "매끈한 벡터 선, 완벽한 기하, 다듬어진 상업 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مخطوطة شعرية كلاسيكية",
+    "tagline": "يرسم عنصر صورتك صفحةً من مخطوطة شعرية كلاسيكية بحبر غير متقن، كأن فناناً أعاد رسمها من الذاكرة بعد سنوات.",
+    "look": "يُحذف معظم ما في الصورة، ولا يبقى إلا بضع إشارات تحفظ روح العنصر، تُرسم بحبر يدوي غير متقن: يتفاوت سُمك الخط قليلاً، وتُعاد بعض المواضع مرة بعد مرة واليد تبحث عن الشكل، وقد تنزاح الحدود أو تنقطع أو تبقى مفتوحة فيظهر اهتزاز المعصم. العنصر صغير، بعيد عن المركز أو معلّق في فراغ أبيض شاسع، ولا يجاوره إلا بضع علامات عابرة كدائرة ناقصة أو خط نبتة أو نجوم متناثرة أو خط أفق. الورق مصنوع يدوياً، والحبر ينتشر بلطف، مع ضربات فرشاة جافة وصبغة طباشيرية وحبيبات دقيقة. الألوان خافتة كأن الزمن مرّ عليها: وردي مغبرّ، عاجي دافئ، أخضر باهت، أزرق ناعم، ذهبي فاتح، لون الورق القديم. ويرافقه سطر قصير جداً بخط صغير كملاحظة شخصية.",
+    "traits": ["مخطوطة كلاسيكية", "خط حبر فطري", "فراغ شعري", "ملاحظات شخصية", "خط غير متقن", "ألوان الورق القديم"],
+    "good": [
+      "عناصر ذات طابع كلاسيكي أو رمزي: تمثال، غزال، شجرة زيتون، وجه من الجانب",
+      "لحظات هادئة تدعو إلى التأمل: شخص يجلس وحده، سطح تحت القمر، طائر على غصن",
+      "صور تريدها رسماً لديوان شعر أو بطاقة رسالة أو ملصقاً بطابع المخطوطات"
+    ],
+    "poor": [
+      "صور تريد أن يبقى فيها المشهد كاملاً أو الألوان الغنية",
+      "استخدامات تحتاج إلى خطوط نظيفة ونِسب دقيقة: صور المنتجات، الصور الشخصية، الرسوم المعمارية",
+      "طلب خطوط متجهية ملساء أو هندسة مثالية أو رسم تجاري مصقول"
+    ]
+  }
+}

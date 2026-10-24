@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-259
-description: "Create XXD Panel 259 raster artwork: a faithful photograph paired with a neo-classical poetic sketch of imperfect naïve ink lines and private-manuscript white space. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-259 or asks for this 古典诗稿 style."
+description: "XXD Panel 259｜Classical Poem Manuscript: removes most of a photo and redraws the subject as a poetic, classical-feeling private manuscript in imperfect hand-drawn ink — naive, expressive monoline with varied weight, repeated searching strokes, broken or unclosed outlines and wrist wobble, one small anchor in vast white space with a few casual symbolic marks such as a broken circle, a plant line, stars or a horizon, on handmade paper with soft ink bleed, dry brush, chalky pigment and subtle grain, in muted time-worn colours of dusty rose, warm ivory, muted green, soft blue, pale gold and old-paper tones, plus one very short line in an irregular, hand-noted editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-259 or asks for naive ink manuscript, poetic minimal or wabi-sabi hand-drawn illustration from a photo."
 ---
 
 # XXD Panel 259
